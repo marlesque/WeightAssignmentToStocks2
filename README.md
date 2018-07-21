@@ -1,0 +1,1 @@
+# WeightAssignmentToStocks2
